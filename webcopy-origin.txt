@@ -1,0 +1,132 @@
+Uri: https://fmleth.com/
+File Name: C:\Downloaded Web Sites\fmleth.com\index.htm
+Content Type: text/html
+
+Uri: https://fmleth.com/css/fmleth.min.css
+File Name: C:\Downloaded Web Sites\fmleth.com\css\fmleth.min.css
+Content Type: text/css
+
+Uri: https://fmleth.com/Images/dent.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\dent.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/dexscreener.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\dexscreener.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/dextools.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\dextools.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/elmo-transparent.gif
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\elmo-transparent.gif
+Content Type: image/gif
+
+Uri: https://fmleth.com/Images/ezgif.com-resize.gif
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\ezgif.com-resize.gif
+Content Type: image/gif
+
+Uri: https://fmleth.com/Images/favicon.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\favicon.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/fml.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\fml.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/fmlmain.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\fmlmain.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/kermit-sitting.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\kermit-sitting.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/memegifcrisis.gif
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\memegifcrisis.gif
+Content Type: image/gif
+
+Uri: https://fmleth.com/Images/metamask.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\metamask.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/not-stonks-profit-down.gif
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\not-stonks-profit-down.gif
+Content Type: image/gif
+
+Uri: https://fmleth.com/Images/pepecry-transparent.gif
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\pepecry-transparent.gif
+Content Type: image/gif
+
+Uri: https://fmleth.com/Images/richard-01.jpg
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\richard-01.jpg
+Content Type: image/jpeg
+
+Uri: https://fmleth.com/Images/stockdown.gif
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\stockdown.gif
+Content Type: image/gif
+
+Uri: https://fmleth.com/Images/telegram-p-500.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\telegram-p-500.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/telegram.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\telegram.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/uniswap-p-800.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\uniswap-p-800.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/uniswap.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\uniswap.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/vlcsnap-2023-05-15-15h33m20s466.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\vlcsnap-2023-05-15-15h33m20s466.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/webclip.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\webclip.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/white-x-icon.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\white-x-icon.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/wojackcrying.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\wojackcrying.png
+Content Type: image/png
+
+Uri: https://fmleth.com/Images/x-icon.png
+File Name: C:\Downloaded Web Sites\fmleth.com\Images\x-icon.png
+Content Type: image/png
+
+Uri: https://fmleth.com/js/webfont.js
+File Name: C:\Downloaded Web Sites\fmleth.com\js\webfont.js
+Content Type: text/javascript
+
+Uri: https://fmleth.com/videos/AdobeStock_375358809.webp
+File Name: C:\Downloaded Web Sites\fmleth.com\videos\AdobeStock_375358809.webp
+Content Type: image/webp
+
+Uri: https://fmleth.com/videos/moeny_burning.webp
+File Name: C:\Downloaded Web Sites\fmleth.com\videos\moeny_burning.webp
+Content Type: image/webp
+
+Uri: https://web.archive.org/web/20240909033330im_/https://uploads-ssl.webflow.com/6462b14ce1c4b3dbeef5aa09/6462b14ce1c4b3dbeef5a9e3_richard-03.jpg
+File Name: C:\Downloaded Web Sites\fmleth.com\web\20240909033330im_\https\uploads-ssl.webflow.com\6462b14ce1c4b3dbeef5aa09\6462b14ce1c4b3dbeef5a9e3_richard-03.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20240909033355im_/https://uploads-ssl.webflow.com/6462b14ce1c4b3dbeef5aa09/6462b14ce1c4b3dbeef5a9f6_bg-003.jpg
+File Name: C:\Downloaded Web Sites\fmleth.com\web\20240909033355im_\https\uploads-ssl.webflow.com\6462b14ce1c4b3dbeef5aa09\6462b14ce1c4b3dbeef5a9f6_bg-003.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20240909033401im_/https://uploads-ssl.webflow.com/6462b14ce1c4b3dbeef5aa09/6462b14ce1c4b3dbeef5a9de_richard-02.jpg
+File Name: C:\Downloaded Web Sites\fmleth.com\web\20240909033401im_\https\uploads-ssl.webflow.com\6462b14ce1c4b3dbeef5aa09\6462b14ce1c4b3dbeef5a9de_richard-02.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20240909033402im_/https://uploads-ssl.webflow.com/6462b14ce1c4b3dbeef5aa09/6462b14ce1c4b3dbeef5a9ef_bg-001.jpg
+File Name: C:\Downloaded Web Sites\fmleth.com\web\20240909033402im_\https\uploads-ssl.webflow.com\6462b14ce1c4b3dbeef5aa09\6462b14ce1c4b3dbeef5a9ef_bg-001.jpg
+Content Type: image/jpeg
+
